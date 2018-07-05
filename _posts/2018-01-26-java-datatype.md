@@ -1,5 +1,5 @@
 ---
-title: JAVA
+title: java-datatype
 author: JaeUk
 layout: post
 ---
