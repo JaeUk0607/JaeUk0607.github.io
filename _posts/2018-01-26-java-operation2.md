@@ -2,7 +2,7 @@
 title: java-operation2
 author: JaeUk
 layout: post
-category: java
+category: java-basic
 ---
 ## operation
 
