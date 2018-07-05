@@ -9,8 +9,8 @@ category: java-basic
 
 import java.util.Scanner;
 
-//import java.awt.*;//권장하지않음
-//import java.nio.file.//이렇게 찾아들어가는것이 좋음
+//import java.awt.*;//권장하지않음<br />
+//import java.nio.file.//이렇게 찾아들어가는것이 좋음<br />
 public class Ex07_Printf_format {
 
 	public static void main(String[] args) {
