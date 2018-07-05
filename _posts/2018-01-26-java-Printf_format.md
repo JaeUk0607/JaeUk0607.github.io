@@ -5,8 +5,7 @@ layout: post
 category: java-basic
 ---
 ## printf_format
-
-
+~~~java
 import java.util.Scanner;
 
 //import java.awt.*;//권장하지않음<br />
@@ -82,3 +81,4 @@ public class Ex07_Printf_format {
 	}
 
 }
+~~~

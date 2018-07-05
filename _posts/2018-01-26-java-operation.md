@@ -5,8 +5,8 @@ layout: post
 category: java-basic
 ---
 ## operation
-
-//연산자<br />
+~~~java
+//연산자
 public class Ex05_Operation {
 
 	public static void main(String[] args) {
@@ -95,11 +95,6 @@ public class Ex05_Operation {
 		}
 		System.out.println("sum :" + sum);
 		
-			
-		
-	
-
-
 	
 	//== 연산자 (값을 비교하는 연산자)
 	if (10 == 10.0f) {
@@ -177,3 +172,4 @@ public class Ex05_Operation {
 	}
 	
 }
+~~~
