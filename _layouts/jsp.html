@@ -1,7 +1,7 @@
 layout: default
 ---
 {%- assign java = site.java | sort: 'date' | reverse -%}
-{%- include header.html scrolly_nav=posts -%}
+{%- include header.html scrolly_nav=java -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
