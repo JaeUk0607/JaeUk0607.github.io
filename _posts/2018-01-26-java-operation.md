@@ -1,16 +1,15 @@
 ---
-title: java-datatype
+title: java-operation
 author: JaeUk
 layout: post
 category: java
 ---
 ## operation
 
-/연산자
+//연산자<br />
 public class Ex05_Operation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int result = 100/100;
 		System.out.println(result);
 		

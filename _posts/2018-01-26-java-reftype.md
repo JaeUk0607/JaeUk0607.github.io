@@ -1,5 +1,5 @@
 ---
-title: java-datatype
+title: java-reftype
 author: JaeUk
 layout: post
 category: java
