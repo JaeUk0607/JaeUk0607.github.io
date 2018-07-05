@@ -1,14 +1,14 @@
 layout: default
 ---
-{%- assign _posts = site.posts | sort: 'date' | reverse -%}
-{%- include header.html scrolly_nav=_posts -%}
+{%- assign java = site.java | sort: 'date' | reverse -%}
+{%- include header.html scrolly_nav=java -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}
 	<!-- Posts List -->
-	{%- for _post in _posts -%}
+	{%- for _post in java -%}
 		{%- capture _title -%}
 			<a href="{{- _java.url | absolute_url -}}">{{- _post.title -}}</a>
 		{%- endcapture -%}
