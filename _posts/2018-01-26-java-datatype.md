@@ -2,6 +2,7 @@
 title: java-datatype
 author: JaeUk
 layout: post
+category: java
 ---
 
 ## datatype
