@@ -6,8 +6,8 @@ category: java-basic
 ---
 
 ## datatype
-~~~
- 자바는 시스템에서 8가지 기본타입 제공 (자료형)<br />
+
+ - 자바는 시스템에서 8가지 기본타입 제공 (자료형)<br />
  8가지 기본타입 (값을 저장하는 타입)<br/>
   숫자 -> 정수 (음의정수, 0, 양의정수) -> byte(-128~127)
   			-> char(한문자를 표현하는 자료형: 한문자(2Byte) , unicode 형식)
@@ -18,20 +18,20 @@ category: java-basic
 			   (double) : **실수연산의 기본**
    논리 -> boolean (true, false) : 프로그램의 논리제어
 	      
-	      궁금한점 : 문자열 표현은 어디갔지?? : 홍길동 , 안녕하세요 담을까....
-	      String 는 클래스(설계도) > String s = new String("안녕하세요");
-	      앞 예제 : String s = "홍길동";
+	궁금한점 : 문자열 표현은 어디갔지?? : 홍길동 , 안녕하세요 담을까....<br />
+    String 는 클래스(설계도) > String s = new String("안녕하세요");<br />
+    앞 예제 : String s = "홍길동";<br />
 	      
-~~~	 
-~~~
- 값타입 -> 숫자, 논리
+ 
+
+- 값타입 -> 숫자, 논리 <br />
  참조타입 -> 클래스, 배열
  
- class == 설계도이다 == Type
- class 작은 타입을 모아 놓은 큰타입
- class 반드시 메모리에 적제 (올려놓고) 사용
+ - class == 설계도이다 == Type<br />
+ class 작은 타입을 모아 놓은 큰타입<br />
+ class 반드시 메모리에 적제 (올려놓고) 사용<br />
  new 연산자를 사용하면 ....
- ~~~
+ 
  ~~~
  class Car{  //Car 라는 Type 생성 : Type 변수명 : Car c;
 	String color;

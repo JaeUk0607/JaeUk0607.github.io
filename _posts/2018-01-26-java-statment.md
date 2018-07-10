@@ -7,14 +7,14 @@ category: java-basic
 
 ## statment
 
+- 제어문<br />
+ - 조건문 : if(범위값(3가지)), switch(),case (딱떨어지는것 ex)남,여(break 활용)<br/>
+  - 반복문 : for(반복횟수 명확), while() , do-while() <br />
+ - break (블럭탈출), continue (아래구문 skip)
+
 ~~~java
 public class Ex09_Statement {
 	public static void main(String[] args) {
-		
-		//제어문
-		//조건문 : if(범위값(3가지)), switch(),case (딱떨어지는것 ex)남,여(break 활용)
-		//반복문 : for(반복횟수 명확), while() , do-while()
-		//break (블럭탈출), continue (아래구문 skip)
 		
 		int count = 0;//local variable 사용전에 초기화
 		if(count <1) {
