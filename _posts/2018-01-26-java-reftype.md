@@ -2,7 +2,7 @@
 title: java-reftype
 author: JaeUk
 layout: post
-category: java-basic
+category: java
 ---
 ## reftype
 

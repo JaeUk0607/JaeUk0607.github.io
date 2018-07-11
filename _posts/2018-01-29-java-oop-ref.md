@@ -2,7 +2,7 @@
 title: java-oop-ref
 author: JaeUk
 layout: post
-category: java-oop
+category: java
 ---
 
  # OOP

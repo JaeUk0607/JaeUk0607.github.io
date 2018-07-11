@@ -2,7 +2,7 @@
 title: java-statment
 author: JaeUk
 layout: post
-category: java-basic
+category: java
 ---
 ~~~java
 import java.util.Scanner;

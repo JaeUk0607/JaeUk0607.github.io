@@ -2,7 +2,7 @@
 title: java-printf_format
 author: JaeUk
 layout: post
-category: java-basic
+category: java
 ---
 ## printf_format
 ~~~java
